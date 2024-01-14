@@ -61,4 +61,6 @@ function scrollAnim(){
   }
 }
 
+//Window Scroll Animation
+
 window.addEventListener("scroll", scrollAnim);
